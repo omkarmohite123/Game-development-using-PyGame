@@ -1,2 +1,2 @@
 # Game-development-using-PyGame
-I am using python for devlopment PyGame
+I devloped Slither_Game and Pong_Game
